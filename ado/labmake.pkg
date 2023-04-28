@@ -1,0 +1,16 @@
+d LABMAKE: create value labels from codebook-style variables
+d
+d  A simple label maker, automating the dull task of turning codebooks into value labels.
+d
+d KW: labels
+d KW: codebook
+d
+d Requires: Stata version 9
+d
+d Distribution-Date: 20230428
+d
+d Author: Jan Kabátek, University of Melbourne
+d Support: email j.kabatek@@unimelb.edu.au
+d
+f labmake.ado
+f labmake.sthlp
