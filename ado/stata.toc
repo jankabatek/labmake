@@ -1,0 +1,10 @@
+v 1.0
+d LABMAKE: create value labels from codebook-style variables
+d
+d
+d Jan Kabatek, 
+d UoM, Australia
+d
+d j.kabatek@unimelb.edu.au
+d https://jankabatek.com/
+d https://github.com/jankabatek/plotsuite
