@@ -9,3 +9,7 @@ To install, parse the following command in Stata:
 The help file contains further details and examples:
 
     help labmake
+
+
+
+    
