@@ -1,4 +1,4 @@
-# labmake - automating the creation of value labels from codebook-style variables 
+# labmake - automate the generation of value labels from codebooks 
 
 I made this script because I was getting tired of manually recoding Excel codebooks into Stata labels. 
 
