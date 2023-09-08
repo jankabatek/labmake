@@ -21,11 +21,11 @@
 {synoptline}
 {syntab:Source variables}
 {synopt:{opth v:alues(varname)}}is a numeric variable that stores the values (that are being labelled){p_end}
-{synopt:{opth l:abels(varname)}}is a string variable that stores the labels (that correspond to {cmd:values}){p_end}
+{synopt:{opth l:abels(varname)}}is a string variable that stores the labels (that correspond to the values){p_end}
 
 {syntab:Editing options}
 {synopt:{opt a:dd}}allows you to add values to an existing label{p_end}
-{synopt:{opt modify}}allows you to modify values of an existing existing label. Specifying {opt modify} implies {opt add}, even if you do not type the {opt add} option.{p_end}
+{synopt:{opt modify}}allows you to modify values of an existing label. Specifying {opt modify} implies {opt add}, even if you do not type the {opt add} option.{p_end}
 {synopt:{opt replace}}allows you to replace an existing existing label{p_end}
 {synopt:{opt nofix}}prevents display formats from being widened according to the
 maximum length of the value label{p_end}
