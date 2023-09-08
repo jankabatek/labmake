@@ -25,7 +25,7 @@
 
 {syntab:Editing options}
 {synopt:{opt a:dd}}allows you to add values to an existing label{p_end}
-{synopt:{opt modify}}allows you to modify values of an existing label. Specifying {opt modify} implies {opt add}, even if you do not type the {opt add} option.{p_end}
+{synopt:{opt modify}}allows you to modify values of an existing label. Specifying {opt modify} implies {opt add}.{p_end}
 {synopt:{opt replace}}allows you to replace an existing existing label{p_end}
 {synopt:{opt nofix}}prevents display formats from being widened according to the
 maximum length of the value label{p_end}
